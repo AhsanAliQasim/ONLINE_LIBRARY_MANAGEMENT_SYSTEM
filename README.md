@@ -139,7 +139,7 @@ The Online Library Management System project is easy to use. You have two option
 
 3-Run the Executable File: For Windows, run the Project.exe file. For Unix-based systems, if wine is installed, use it to run the executable file.
 
-**Additional Files
+**Additional Files**
 
 The project contains several additional files that include lists of books and a details file. These files are essential for the system's operations and should be kept in the same directory as the executable or source file.
 
