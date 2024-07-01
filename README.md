@@ -14,9 +14,11 @@ This Online Library Management System is a testament to the practical applicatio
 **Purpose & Objectives**
 
 **Purpose:**
+
 The purpose of the Online Library Management System (OLMS) project is to modernize and streamline traditional library management processes through the implementation of a software solution. This project aims to leverage the power of C++ to create a user-friendly, efficient, and organized system that facilitates the daily operations of librarians and students.
 
 **Objectives:**
+
 •	To replace manual, paper-based library operations with a digital system, reducing the workload on librarians and enhancing the overall efficiency of the library.
 
 •	To provide a user-friendly interface that caters to both librarians and students, ensuring easy navigation and accessibility.
@@ -48,24 +50,43 @@ Following are some of the key features of Online Library Management System.
 Implementing an online library management system project, as described, offers several benefits for both librarians and students. Here are some of the key advantages are as under;
 
 **Efficient Book Management**
+
 •	The system streamlines the process of book management for librarians by automating tasks such as adding, and removing of books. This reduces manual effort and minimizes the chance of errors.
+
 **Easy Access to Information**
+
 •	Librarians can quickly access information about availability, and reservation of books. Students can easily search for books, view their availability as well, and place reservations from the comfort of their own devices.
+
 **Improved User Experience**
+
 •	The user-friendly interface enhances the overall experience for both librarians and students. Menu-driven systems and clear output screens make navigation and interaction more intuitive.
+
 **Time Savings**
+
 •	Automation of routine tasks, such as book transactions and data updates, saves time for librarians, allowing them to focus on more critical aspects of library management.
+
 **Enhanced Book Reservation System**
+
 •	The reservation feature facilitates better planning for both librarians and students. Librarians can manage book reservations efficiently, and students can secure their desired books even when they are currently unavailable.
+
 **Accurate Transaction Records**
+
 •	The system maintains accurate and reliable transaction records, providing librarians with a comprehensive view of book borrowing and return history. This helps in managing the library's inventory effectively.
+
 **Secure User Authentication**
+
 •	The login system ensures that only authorized users, librarians, and students can access the system. This enhances the security of sensitive information and protects against unauthorized access.
+
 **Data Persistence**
+
 •	Storing data in a database ensures data persistence, meaning that information is retained even if the system is restarted. This contributes to data integrity and reliability.
-Scalability and Future Development
+
+**Scalability and Future Development**
+
 •	The modular structure of the project allows for easy scalability and future enhancements. Additional features, such as user feedback, notifications, and a fine system, can be incorporated to meet evolving needs.
+
 **Adaptability to Technological Advances**
+
 •	As technology evolves, the project can be updated to incorporate new advancements, ensuring that the library management system stays relevant and efficient.
 
 **Conclusion**
@@ -97,19 +118,29 @@ I'm excited about what I’ve achieved, and this project has not only improved l
 The Online Library Management System project is easy to use. You have two options to run the project: compile and run the C++ source file, or directly execute the provided executable file. Follow the steps below for both methods:
 
 **Option 1:**
+
 **Compile and Run the C++ Source File**
+
 1-Clone the Repository: Download the repository from GitHub.
+
 2-Navigate to the Project Directory: Open the project folder on your computer.
+
 3-Compile the C++ Source File: Ensure you have a C++ compiler installed (e.g., g++). Compile the Project.cpp file.
+
 4-Run the Executable: Execute the compiled file to run the program.
 
 **Option 2:**
+
 **Run the Provided Executable File**
+
 1-Clone the Repository: Download the repository from GitHub.
+
 2-Navigate to the Project Directory: Open the project folder on your computer.
+
 3-Run the Executable File: For Windows, run the Project.exe file. For Unix-based systems, if wine is installed, use it to run the executable file.
 
-**Additional Files**
+**Additional Files
+
 The project contains several additional files that include lists of books and a details file. These files are essential for the system's operations and should be kept in the same directory as the executable or source file.
 
 
