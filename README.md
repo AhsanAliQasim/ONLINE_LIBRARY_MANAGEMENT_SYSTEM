@@ -10,6 +10,7 @@ The project's simplicity is intentional, emphasizing functionality without unnec
 Our Online Library Management System is not just a project; it's a tool that bridges the gap between librarians and students, facilitating a smooth flow of library operations. The focus on essential features ensures that users can navigate the system effortlessly, promoting accessibility for all.
 As technology continues to play a crucial role in modernizing traditional systems, our Online Library Management System stands as a testament to the practical application of programming fundamentals in real-world scenarios. Whether you're a librarian overseeing the library's resources or a student eager to explore the vast literary world, this system is designed to make your library experience seamless and enjoyable.
 This Online Library Management System is a testament to the practical application of programming fundamentals in real-world scenarios. Embrace the convenience of this digital solution as we embark on a journey to revolutionize the way library’s function, promoting a harmonious coexistence between technology and the timeless joy of reading.
+
  
 **Purpose & Objectives**
 
